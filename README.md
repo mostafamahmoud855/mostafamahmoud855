@@ -3,11 +3,27 @@
 
 ---
 
+### 🌍 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/mostafamahmoud">
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Mahmoud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mostafamahmouda2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mostafamahmouda2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+💡 **Tech Stack:** Python | PyTorch | Hugging Face | Flask | Power BI | Docker | SQL | n8n | Oracle OCI  
+
+---
+
 ### 🧠 About Me  
 I’m **Mostafa Mahmoud**, a **Data Scientist & AI Engineer** passionate about building **intelligent, data-driven systems**.  
 I specialize in **Deep Learning, NLP, and Generative AI**, and I love transforming complex research into **scalable business solutions**.  
 
-- 💼 Worked with **BCGX**, **British Airways**, and **Work Brand** on AI, NLP, and analytics projects.  
+- 💼 Worked with **BCGX**, **British Airways**, **Hassan Allam Construction**, and **Work Brand** on AI, NLP, and analytics projects.  
 - 🚀 Developed **end-to-end ML pipelines** using Python, PyTorch, and Hugging Face.  
 - 🧩 Experienced in **deploying AI systems** with Flask, Docker, and n8n automation.  
 - 📈 Focused on **sentiment analysis**, **churn prediction**, **recommendation systems**, and **chatbots**.  
@@ -70,7 +86,7 @@ I specialize in **Deep Learning, NLP, and Generative AI**, and I love transformi
 
 ---
 
-### 🧩 Soft Skills  
+### 🧩 Professional Skills  
 ![Engineering Analysis](https://img.shields.io/badge/Engineering_Analysis-2471A3?style=for-the-badge)
 ![Performance Calculations](https://img.shields.io/badge/Performance_Calculations-239B56?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Production_Optimization-F39C12?style=for-the-badge)
@@ -79,18 +95,25 @@ I specialize in **Deep Learning, NLP, and Generative AI**, and I love transformi
 
 ### 🏆 Certifications  
 - 🎓 Oracle Cloud Infrastructure 2025 Certified Data Science Professional  
-- 🤖 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- 📊 BCGX Data Science Internship
+- 🤖 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional  
+- 📊 BCGX Data Science Internship  
 - ✈️ British Airways Data Science Internship  
-- 💼 Data Science for Marketing Analytics
+- 💼 Data Science for Marketing Analytics  
 - 🧾 ITI Power BI Development Internship  
 - 🧠 IBM Data Science Professional  
-- 🧩 Machine & Deep Learning with Python   
+- 🧩 Machine & Deep Learning with Python  
 
 ---
 
-### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa%20Mahmoud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafamahmoud)  
-📧 **mostafamahmouda2001@gmail.com**
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafamahmoud855&show_icons=true&theme=tokyonight" alt="Mostafa's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafamahmoud855&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
+
+### 🤝 Let's Collaborate  
+I’m open to collaborations in **Machine Learning, NLP, and AI-driven applications**.  
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/mostafamahmoud) or [email](mailto:mostafamahmouda2001@gmail.com).
