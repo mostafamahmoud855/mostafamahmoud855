@@ -99,7 +99,7 @@ I specialize in **Deep Learning, NLP, and Generative AI**, and I love transformi
 - 📊 BCGX Data Science Internship  
 - ✈️ British Airways Data Science Internship  
 - 💼 Data Science for Marketing Analytics  
-- 🧾 ITI Power BI Development Internship  
+- 🧾 ITI Power BI Development  
 - 🧠 IBM Data Science Professional  
 - 🧩 Machine & Deep Learning with Python  
 
