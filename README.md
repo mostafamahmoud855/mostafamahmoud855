@@ -11,6 +11,10 @@
   <a href="mailto:mostafamahmouda2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-mostafamahmouda2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+    <a href="https://www.kaggle.com/mostafamahmoud2020">
+    <img src="https://img.shields.io/badge/Kaggle-Mostafa%20Mahmoud-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+
 </p>
 
 ---
